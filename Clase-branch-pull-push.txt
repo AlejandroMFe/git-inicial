@@ -1,0 +1,44 @@
+Notas del Curso
+
+Clase: Branche, Pull and Push
+
+merge -> agregar cambios en otras ramas a la rama principal
+
+Branches
+    - Permite trabajar en diferentes versiones de la app.
+
+Ej.
+    Unica línea o versión de mi app.
+    Si somos 5 trabajando en la app cada uno tendra su propias versiones
+    de la app.
+
+    hay una versión que es la "Estable"
+    Crear Versiones Paralelas con otras funcionalidades
+    para agregar los cambios se hace un Merge.
+
+    Sincronizar el proyecto para tener todos los cambios.
+
+    2° Ramas Principales
+        - Master/Main -> ultima version estable de la app.
+        - Develop -> tiene todo lo que tiene master más nuevos cambios que aún no se sumaron a la master.
+                  -> Acá se desarrollan nuevas funcionalidades.
+
+
+Puedo crear nuevos Branches para cada funcionalidad.
+Mergear los cambios a la rama master.
+
+Mergear -> es combinar dos ramas..
+        -> combinar los nuevos cambios de Develop a Master por ejemplo.
+
+Branche separa los desarrollos para que no se contamienen ni crucen codigos.
+
+Pull
+    -> Tirar/Descargar: bajar los últimos cambios que hay en github
+
+Push    
+    -> Empujar/Subir: subir todos los cambios que tengo en mi pc al repositorio
+    de github.
+    -> Al terminar pequeños avances y desarrollos ir subiendo.
+
+Puedo hacer Pull & Push entre Branches también.
+Estas herramientas me permiten tener sincronizados con el repositorio.
