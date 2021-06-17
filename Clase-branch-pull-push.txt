@@ -58,3 +58,8 @@ Commit
 
 1° Commit para poder subirlo/Push
     commit -- Push --> GitHub.
+
+
+Fetch Origin
+    -> Chequea los cambios que hay en el repositorio para podes descargarlos.
+
