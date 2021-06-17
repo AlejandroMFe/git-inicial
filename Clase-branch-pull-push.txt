@@ -63,3 +63,7 @@ Commit
 Fetch Origin
     -> Chequea los cambios que hay en el repositorio para podes descargarlos.
 
+Pararme en la Branche Main
+y desde ahí mergear la Branche new-feacture
+
+continuar por la clase 5 -> Pull Request
