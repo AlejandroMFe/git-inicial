@@ -42,3 +42,19 @@ Push
 
 Puedo hacer Pull & Push entre Branches también.
 Estas herramientas me permiten tener sincronizados con el repositorio.
+
+                    Subir/Push
+Repo Local --> New File --> Commit --> Push --> Repo GitHub
+
+                    Bajar/Pull
+Repo Local <-- New File -- Pull <-- Repo GitHub
+
+Commit 
+    -> Comentar los cambios para subirlos.
+    -> Agrupar los cambios en grupo de cambios
+    -> Dejar un comentario en base a los cambios listos.
+    -> Luego del commit los archivos están listos para subirlos.
+    
+
+1° Commit para poder subirlo/Push
+    commit -- Push --> GitHub.
