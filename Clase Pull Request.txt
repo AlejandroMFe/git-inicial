@@ -1,0 +1,7 @@
+Pull Request
+    es una pedido de cambios en el software.
+    solicitar cambios que requieren los cambios
+    Es una solicitud para incorporar cambios en una rama.
+
+    Requieren de Aprobación para poder hacer el merge.
+    
